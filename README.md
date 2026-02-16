@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Computer Engineering student at Texas A&M University graduating in May 2027!
+
 <!--
 **danielwd27/danielwd27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
