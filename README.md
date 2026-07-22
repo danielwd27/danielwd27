@@ -1,10 +1,15 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://danielwdavis.dev">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ddavis6q/">LinkedIn</a>
+</p>
+
+
 I'm a Computer Engineering student at Texas A&M University graduating in May 2027!
 
-Feel free to check out some of my projects!
+Currently working at TDI-Brooks as a Programming Intern.
 <!--
-**danielwd27/danielwd27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
