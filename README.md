@@ -8,7 +8,7 @@
 
 I'm a Computer Engineering student at Texas A&M University graduating in May 2027!
 
-Currently working at TDI-Brooks as a Programming Intern.
+Currently working on benchmarking emerging hardware architectures for ML applications as my Senior Capstone!
 <!--
 
 Here are some ideas to get you started:
